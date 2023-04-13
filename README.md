@@ -1,6 +1,7 @@
 # team 9 Project
 ### 프로젝트의 목표 설정
 - EDA 뭘로 할지, 무슨 Data로?
+	- https://www.kaggle.com/datasets/ulrikthygepedersen/fastfood-nutrition
 - 페이지 만들기
 
 ### 팀 구성 및 역할 분담
