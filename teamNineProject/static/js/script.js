@@ -17,26 +17,49 @@ icon_1.addEventListener("click", function() {
 	img1.style.display = "block";
 });
 
+icon_11.addEventListener("click", function() {
+	img1.style.display = "none";
+});
+
 icon_2.addEventListener("click", function() {
 	img2.style.display = "block";
+});
+
+icon_21.addEventListener("click", function() {
+	img2.style.display = "none";
 });
 
 icon_3.addEventListener("click", function() {
 	img3.style.display = "block";
 });
 
+icon_31.addEventListener("click", function() {
+	img3.style.display = "none";
+});
+
 icon_4.addEventListener("click", function() {
 	img4.style.display = "block";
+});
+
+icon_41.addEventListener("click", function() {
+	img4.style.display = "none";
 });
 
 icon_5.addEventListener("click", function() {
 	img5.style.display = "block";
 });
 
+icon_51.addEventListener("click", function() {
+	img5.style.display = "none";
+});
+
 icon_6.addEventListener("click", function() {
 	img6.style.display = "block";
 });
 
+icon_61.addEventListener("click", function() {
+	img6.style.display = "none";
+});
 
 
 img1.addEventListener("click", function() {
